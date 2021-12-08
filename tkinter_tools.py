@@ -1,3 +1,5 @@
+# Tkinter Tools by JamesJoynsonEllis
+
 import tkinter
 
 username = ""
@@ -54,3 +56,5 @@ def get_login():
     tkinter.mainloop()
     return username.replace(" ", ""), password.replace(" ", "")
 
+
+# This code is not to be directly used without crediting the author
